@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Hero{
+    background-color: #FFF1E0;
+    height: 87vh;
+
+}
+.search{
+    padding: 0.4rem 4rem;
+    border-radius: 2rem;
+    border: none;
+    margin-top: -1.3rem;
+    margin-bottom: 0.5rem;
+     margin-left: 30rem;
+}
+/* .comp1{
+    width: 20rem;
+    height: 20rem;
+    background-color: azure;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+
+} */
+/* .comp1 .chicken{
+    width: 15rem ;
+    height: 15rem;
+padding-left: 1em;
+} */
+.chick{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.grid_recipe{
+    display: flex;
+    justify-content: space-around;
+}
+.dark-mode {
+    background: black;
+    color: white;
+    /* transition: 0.5s; */
+  }
+  .nameo{
+    text-decoration: none;
+    color: black;
+    margin-left: 3rem;
+  }
+
+  .price{
+    text-decoration: none;
+    color: black;
+    margin-right: 10rem;
+  }

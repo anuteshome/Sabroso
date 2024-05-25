@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imageF1{
+    border-radius: 50%;
+    width: 30rem;
+}
+.grid_F1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(243, 235, 221);
+}
+.dark-mode {
+    background: black;
+    color: white;
+    /* transition: 0.5s; */
+  }

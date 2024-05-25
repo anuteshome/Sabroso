@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image":"https://pinchofyum.com/cdn-cgi/image/width=360,height=514,fit=crop/wp-content/uploads/Spirali-1-1.jpg",
+        "title": "pasta",
+        "price": 335
+    },
+    {
+        "id": 2,
+        "image": "https://pinchofyum.com/cdn-cgi/image/width=360,height=514,fit=crop/wp-content/uploads/Cilantro-Orange-Chicken-61.jpg",
+        "title": "Ridiculously",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "https://pinchofyum.com/cdn-cgi/image/width=360,height=514,fit=crop/wp-content/uploads/Walnut-Meatballs-2.jpg",
+        "title": "Healthy",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "image": "https://pinchofyum.com/cdn-cgi/image/width=680,height=99999,fit=scale-down/wp-content/uploads/Air-Fryer-Chicken-9.jpg",
+        "title": "Chicken",
+        "price": 500
+    }
+]

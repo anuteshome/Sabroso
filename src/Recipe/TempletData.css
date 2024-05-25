@@ -1,0 +1,15 @@
+.jsonimage{
+    width:280px;
+    height: 350px;
+    border-radius: 1rem;
+}
+.template_Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    margin-left: 2rem;
+   
+}
+
+h3{
+    margin-left:50px ;
+}
