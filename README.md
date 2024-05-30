@@ -65,14 +65,14 @@ npm start
 ```
 API
 ```
-npx create-react-app sabroso-recipe-finder
-cd sabroso-recipe-finder
+npx create-react-app sabroso
+cd sabroso
 npm install react-router-dom axios
 
 ```
 Basic folder Structure
 ```
-sabroso-recipe-finder/
+sabroso/
 ├── public/
 ├── src/
 │   ├── components/
@@ -91,5 +91,5 @@ sabroso-recipe-finder/
 # You can get the project from:
 
 ```
-[https://github.com/anuteshome/Sabroso_Recipe_finder](https://github.com/anuteshome/Sabroso/)
+https://github.com/anuteshome/Sabroso/
 ```
