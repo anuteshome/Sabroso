@@ -63,7 +63,31 @@ start the project
 ```
 npm start
 ```
+API
+```
+npx create-react-app sabroso-recipe-finder
+cd sabroso-recipe-finder
+npm install react-router-dom axios
 
+```
+Basic folder Structure
+```
+sabroso-recipe-finder/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Footer.js
+│   │   ├── RecipeCard.js
+│   │   ├── SearchBar.js
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   ├── RecipePage.js
+│   │   ├── SearchResultsPage.js
+│   ├── App.js
+│   ├── index.js
+
+```
 # You can get the project from:
 
 ```
