@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Sabroso Recipe finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+"Sabroso Recipe Finder" is a website designed to allow users to discover and explore a wide range of recipes. It provides a user-friendly interface where users can search for recipes based on ingredients, cuisine types, or dietary preferences. The website aims to inspire users to try new recipes, learn cooking techniques, and share their favorite recipes with others.
 
-## Available Scripts
+# Key Features:
 
-In the project directory, you can run:
+## Recipe Search:
 
-### `npm start`
+By Ingredients:
+Users can input specific ingredients they have on hand and find recipes that include those ingredients.
+By Cuisine: Users can filter recipes based on different cuisine types like Italian, Chinese, Mexican, etc.
+By Dietary Preferences: Options to search for vegetarian, vegan, gluten-free, keto, etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## User-Friendly Interface:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Intuitive and clean design for easy navigation.
+Search bar prominently displayed for quick access to recipes.
 
-### `npm test`
+## Recipe Details:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Each recipe page includes a detailed list of ingredients, step-by-step cooking instructions, cooking time, and nutritional information.
+High-quality images of the dishes.
+Cooking Techniques:
+Articles and videos on various cooking techniques to help users improve their culinary skills.
 
-### `npm run build`
+## User Accounts:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Users can create accounts to save their favorite recipes and create shopping lists.
+Option to submit and share personal recipes with the community.
+Community Interaction:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Comment sections for users to leave feedback on recipes.
+Rating system to highlight popular recipes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Mobile-Friendly:
 
-### `npm run eject`
+Responsive design to ensure the website works well on mobile devices.
+Technical Stack:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Frontend:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React: For building the user interface.
+CSS/SCSS: For styling the website.
+React Router: For handling navigation between different pages.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Backend:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Emailjs
+Integration with external recipe APIs to fetch a wide variety of recipes.
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Before using the Sabroso recipe finder, please ensure that you have the following dependencies installed on your system. You can find installation instructions on their respective websites or install them using the provided command:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Enter to Project
 
-### Code Splitting
+```
+cd sarbroso
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+start the project
 
-### Analyzing the Bundle Size
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# You can get the project from:
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+[https://github.com/anuteshome/Sabroso_Recipe_finder](https://github.com/anuteshome/Sabroso/)
+```
