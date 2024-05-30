@@ -93,3 +93,16 @@ sabroso/
 ```
 https://github.com/anuteshome/Sabroso/
 ```
+## Development
+
+- If you'd like to contribute to the project, feel free to fork the repository and submit pull requests with your changes.
+- Make sure to follow the coding style and conventions used in the existing codebase.
+- 
+## Author
+
+- [Ananya Teshome](https://x.com/AnanyaTesh)
+
+
+## License
+
+This project is licensed under the [MIT License](https://mit-license.org/ananya). See the [LICENSE](LICENSE) file for more details.
